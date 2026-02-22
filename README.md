@@ -1,4 +1,3 @@
-
 # Application Security Maturity & Vulnerability Triage Lab
 
 This project is a hands-on lab to simulate how an enterprise security team would manage application security for an Azure-hosted web application.
@@ -21,7 +20,6 @@ It focuses on:
 
 ## Status
 
-Implementation in progress. This repo documents all steps, decisions, and artifacts as the lab is built.
-"@ | Out-File -Encoding utf8 README.md
+Implementation in progress. This repo documents the steps, decisions, and artifacts for the lab.
 
-See powerbi/AppSec_Maturity_Triage_Report.pbix (Power BI Desktop file) and docs/screenshots/PBI-01_FullDashboard.png for the final dashboard.
+See `PowerBI_report.pbix` (Power BI Desktop file) and the screenshots in `docs/screenshots/` for the final dashboard.
