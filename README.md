@@ -23,3 +23,5 @@ It focuses on:
 
 Implementation in progress. This repo documents all steps, decisions, and artifacts as the lab is built.
 "@ | Out-File -Encoding utf8 README.md
+
+See powerbi/AppSec_Maturity_Triage_Report.pbix (Power BI Desktop file) and docs/screenshots/PBI-01_FullDashboard.png for the final dashboard.
