@@ -35,3 +35,6 @@
   - **Done**: HTTP methods informational review
 - Screenshot: `docs/screenshots/DEVOPS-01_BoardOverview.png`
 
+- Added a table visual showing all curated Nessus findings with severity, OWASP area, business impact, and status (screenshot: `PBI-02_NessusFindingsTable.png`).
+
+
